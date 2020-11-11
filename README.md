@@ -19,8 +19,8 @@ Two main results can be shown from the data.
 
 For further investigation, income data of more detailed household classification (e.g. married-couple families, single non-family households, student non-family household) can be collected and studied, to better known the weight of each group in changing overall income, and therefore come up with more targeted policies. 
 ## Original data
-[2015 household income data](https://data.census.gov/cedsci/table?q=Median%20Household%20Income%20in%20the%20United%20States&t=Household%20and%20Family%3AIncome%20%28Households,%20Families,%20Individuals%29&g=0100000US.04000.001&tid=ACSST1Y2015.S1901&hidePreview=false)  
-[2016 household income data](https://data.census.gov/cedsci/table?q=Median%20Household%20Income%20in%20the%20United%20States&t=Household%20and%20Family%3AIncome%20%28Households,%20Families,%20Individuals%29&g=0100000US.04000.001&tid=ACSST1Y2016.S1901&hidePreview=false)  
-[2017 household income data](https://data.census.gov/cedsci/table?q=Median%20Household%20Income%20in%20the%20United%20States&t=Household%20and%20Family%3AIncome%20%28Households,%20Families,%20Individuals%29&g=0100000US.04000.001&tid=ACSST1Y2017.S1901&hidePreview=false)  
-[2018 household income data](https://data.census.gov/cedsci/table?q=Median%20Household%20Income%20in%20the%20United%20States&t=Household%20and%20Family%3AIncome%20%28Households,%20Families,%20Individuals%29&g=0100000US.04000.001&tid=ACSST1Y2018.S1901&hidePreview=false)  
-[2019 household income data](https://data.census.gov/cedsci/table?q=Median%20Household%20Income%20in%20the%20United%20States&t=Household%20and%20Family%3AIncome%20%28Households,%20Families,%20Individuals%29&g=0100000US.04000.001&tid=ACSST1Y2019.S1901&hidePreview=false)
+[2015 household income data](https://github.com/zpren1998/2015-2019-Maryland-Households-Income-Study/blob/main/Original%20Data_2015.csv)  
+[2016 household income data](https://github.com/zpren1998/2015-2019-Maryland-Households-Income-Study/blob/main/Original%20Data_2016.csv)  
+[2017 household income data](https://github.com/zpren1998/2015-2019-Maryland-Households-Income-Study/blob/main/Original%20Data_2017.csv)  
+[2018 household income data](https://github.com/zpren1998/2015-2019-Maryland-Households-Income-Study/blob/main/Original%20Data_2018.csv)  
+[2019 household income data](https://github.com/zpren1998/2015-2019-Maryland-Households-Income-Study/blob/main/Original%20Data_2019.csv)
